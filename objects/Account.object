@@ -20,7 +20,16 @@
         <type>Email</type>
         <unique>false</unique>
     </fields>
-    
+    <fields>
+        <fullName>EmailIdCustomer__c</fullName>
+        <externalId>false</externalId>
+        <label>Email Id Customer</label>
+        <required>false</required>
+        <trackFeedHistory>false</trackFeedHistory>
+        <type>Email</type>
+        <unique>false</unique>
+    </fields>
+
     <fields>
         <fullName>Status__c</fullName>
         <externalId>false</externalId>
